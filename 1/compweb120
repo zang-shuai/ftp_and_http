@@ -1,0 +1,1 @@
+gcc server_web.c -lnsl -w -o server_web

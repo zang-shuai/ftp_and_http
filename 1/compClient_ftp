@@ -1,0 +1,1 @@
+gcc client_ftp.c -lnsl -o client_ftp

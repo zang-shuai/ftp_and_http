@@ -1,0 +1,1 @@
+gcc server_ftp.c -lnsl -lrt -o server_ftp

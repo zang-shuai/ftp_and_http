@@ -1,0 +1,4 @@
+This an example of a text line
+read by client_ftp and
+transfered to server_ftp 
+to test the communication.
